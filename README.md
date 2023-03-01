@@ -2,7 +2,7 @@
 
 The API used was from https://openweathermap.org/current
 
-Built with html, css, and Js.
+Built with Javascript, HTML, and CSS
 
 Find the weather in any place
 
