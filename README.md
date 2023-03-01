@@ -1,4 +1,5 @@
 # Weather-App
+
 The API used was from https://openweathermap.org/current
 Built with html, css, and Js.
 Find the weather in any place
