@@ -1,6 +1,6 @@
 # Weather-App
 
-The API used was from https://openweathermap.org/current
+The API key used was from https://openweathermap.org/current
 
 Built with Javascript, HTML, and CSS
 
