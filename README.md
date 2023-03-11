@@ -1,4 +1,4 @@
-# WeatherApp 🌨️
+# WeatherApp 🌞
 
 The API key used was from https://openweathermap.org/current
 
